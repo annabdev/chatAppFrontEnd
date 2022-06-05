@@ -6,7 +6,7 @@ import Groupchat from "./components/Groupchat";
 
 class App extends Component {
     constructor(props) {
-      super(props);
+        super(props);
     }
    render(){
        return (
@@ -16,7 +16,5 @@ class App extends Component {
         <Route path="/chat" component={Groupchat} /> 
            </Switch>
        );
-   }
+   }}
 }
-
-export default App;
