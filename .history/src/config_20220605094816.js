@@ -1,0 +1,5 @@
+export default {
+    appId: "21137765c063cc96", //Enter your App ID
+    apiKey: "5eeb87ce093e21e22805ee05132b51baa742a0cb", //Enter your API KEY
+    GUID: "testgroup", // Enter your group UID
+  };
